@@ -10,27 +10,27 @@ Aim for this project:
     
 What do you need to run the application?
 
-●	IDE to open the files (Visual Studio) or command prompt to run the application file.
+  ●	IDE to open the files (Visual Studio) or command prompt to run the application file.
 
-●	python interpreter
+  ●	python interpreter
 
-●	require python modules including Flask, Flask-MySQLdb, Flask-SQLAlchemy, mysql, mysql-connector, mysqlclient, PyMySQL, SQLAlchemy, flash, aws-credentials
+  ●	require python modules including Flask, Flask-MySQLdb, Flask-SQLAlchemy, mysql, mysql-connector, mysqlclient, PyMySQL, SQLAlchemy, flash, aws-credentials
 
-●	Browser including Chrome, Safari, and Firefox.
+  ●	Browser including Chrome, Safari, and Firefox.
 
 User guide to run application in windows operating system?
 
-●	Either open the source code in editor tool or open the folder in command prompt 
+  ●	Either open the source code in editor tool or open the folder in command prompt 
 
-●	The name of the folder is “Joe's Chop group DB-8 sourcecode.zip”
+  ●	The name of the folder is “Joe's Chop group DB-8 sourcecode.zip”
 
-●	There’s a python file named app.py, run the code by typing “python3 app.py” in the terminal. 
+  ●	There’s a python file named app.py, run the code by typing “python3 app.py” in the terminal. 
 
-●	After execute the app.py file, the ip address will show up in the prompt (terminal for mac)
+  ●	After execute the app.py file, the ip address will show up in the prompt (terminal for mac)
 
-●	Copy the provided ip address into the web browser and run the application 
+  ●	Copy the provided ip address into the web browser and run the application 
 
-●	For window users, the last line of code for the host should be ‘127.0.0.0’, port = 80. But for Mac OS users, change the last line of code into ‘0.0.0.0’, port = 80.
+  ●	For window users, the last line of code for the host should be ‘127.0.0.0’, port = 80. But for Mac OS users, change the last line of code into ‘0.0.0.0’, port = 80.
 
 Note:to install required modules to run the application: Flask, Flask-MySQLdb, Flask-SQLAlchemy, mysql, mysql-connector, mysqlclient, PyMySQL, SQLAlchemy, flash, aws-credentials. 
 Type pip3 list in the command line to check whether the computer already has those packages or not. 
